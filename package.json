@@ -21,10 +21,10 @@
     "url": "git+https://github.com/ogea12/prettier-config.git"
   },
   "devDependencies": {
-    "release-it": "^17.10.0"
+    "release-it": "^18.1.2"
   },
   "dependencies": {
-    "prettier-edgejs": "^0.2.34"
+    "prettier-edgejs": "^0.2.35"
   },
   "peerDependencies": {
     "prettier": "^3.4.2"
