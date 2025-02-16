@@ -1,7 +1,7 @@
 {
   "name": "@ogea12/prettier-config",
   "description": "Config' Prettier appliquée dans les projets de l'OGEA 12",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "node": ">=20.17.0"
   },
