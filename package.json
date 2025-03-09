@@ -24,7 +24,7 @@
     "release-it": "^18.1.2"
   },
   "dependencies": {
-    "prettier-edgejs": "^0.2.35"
+    "prettier-plugin-edgejs": "^1.0.0"
   },
   "peerDependencies": {
     "prettier": "^3.4.2"
