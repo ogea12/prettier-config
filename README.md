@@ -1,4 +1,6 @@
-# @ogea12/prettier-config
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e62fd1a3-87d2-445f-b4fb-46c4386caf13" />
+</div>
 
 <div align="center">
 
