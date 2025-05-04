@@ -22,7 +22,7 @@
     "url": "git+https://github.com/ogea12/prettier-config.git"
   },
   "devDependencies": {
-    "release-it": "^18.1.2",
+    "release-it": "^19.0.2",
     "taze": "^19.0.4"
   },
   "dependencies": {
