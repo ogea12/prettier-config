@@ -29,7 +29,7 @@
     "prettier-plugin-edgejs": "^1.0.0"
   },
   "peerDependencies": {
-    "prettier": "^3.4.2"
+    "prettier": "^3.5.3"
   },
   "author": "OGEA 12",
   "license": "MIT",
