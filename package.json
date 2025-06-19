@@ -24,11 +24,11 @@
   },
   "devDependencies": {
     "husky": "^9.1.7",
-    "release-it": "^19.0.2",
+    "release-it": "^19.0.3",
     "taze": "^19.1.0"
   },
   "dependencies": {
-    "prettier-plugin-edgejs": "^1.0.0"
+    "prettier-plugin-edgejs": "^1.0.2"
   },
   "peerDependencies": {
     "prettier": "^3.5.3"
