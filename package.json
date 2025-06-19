@@ -13,6 +13,7 @@
   },
   "scripts": {
     "format": "prettier --write .",
+    "prepare": "husky",
     "release": "npx release-it",
     "taze": "npx taze"
   },
@@ -22,6 +23,7 @@
     "url": "git+https://github.com/ogea12/prettier-config.git"
   },
   "devDependencies": {
+    "husky": "^9.1.7",
     "release-it": "^19.0.2",
     "taze": "^19.1.0"
   },
